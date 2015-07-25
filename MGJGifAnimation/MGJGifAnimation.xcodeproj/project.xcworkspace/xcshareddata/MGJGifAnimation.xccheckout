@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4E5306AE-3EDF-4257-AA51-11F6CF38F04F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B5CE592536EA8CCCF50764B2C1D254BD0249248E</key>
+		<string>https://github.com/guafei/MGJGif</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MGJGifAnimation/MGJGifAnimation.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B5CE592536EA8CCCF50764B2C1D254BD0249248E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/guafei/MGJGif</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B5CE592536EA8CCCF50764B2C1D254BD0249248E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B5CE592536EA8CCCF50764B2C1D254BD0249248E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MGJGif</string>
+		</dict>
+	</array>
+</dict>
+</plist>
